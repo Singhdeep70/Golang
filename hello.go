@@ -7,5 +7,5 @@ import "fmt"
 // The main function is the starting point of every Go program
 func main() {
 	// Print a greeting message to the console
-	fmt.printf("HELLO THERE!")
+	fmt.Printf("HELLO THERE!")
 }
