@@ -10,6 +10,7 @@ func main() {
 
 	// Go infers 'age' as int (typically int32 or int64 depending on system)
 	// Memory is reserved for the integer value 21
+	// ':=' walrus operator
 	age := 21
 
 	// Another string variable is declared and memory is allocated similarly
